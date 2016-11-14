@@ -1,2 +1,5 @@
 # RFC-Server-Sample-Part-2
-A sample to my blogpost
+
+Here is the Visual Studio sample file to my blogpost
+
+Have fun.
