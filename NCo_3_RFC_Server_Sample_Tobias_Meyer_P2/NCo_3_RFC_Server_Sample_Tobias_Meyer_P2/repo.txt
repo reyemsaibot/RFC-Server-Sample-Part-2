@@ -1,0 +1,8 @@
+﻿{"name":"PCD","format":"1.0","unicodeEnabled":true,"functions":[
+    {"name":"STFC_CONNECTION","basXmlEnabled":false,"parameters":[
+	    {"name":"ECHOTEXT","direction":"EXPORT","optional":false,"abapType":"C","nucLength":255,"ucLength":510},
+		{"name":"RESPTEXT","direction":"EXPORT","optional":false,"abapType":"C","nucLength":255,"ucLength":510},
+		{"name":"REQUTEXT","direction":"IMPORT","optional":false,"abapType":"C","nucLength":255,"ucLength":510}]
+	}	
+	]
+}
